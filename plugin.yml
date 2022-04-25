@@ -7,7 +7,7 @@ api: [4.0.0]
 commands:
   fly:
     description: "Enable Or Disable Fly Mode"
-    permission: fly.cmd
+    permission: epikfly.cmd
 
 permissions:
   epikfly.cmd:
