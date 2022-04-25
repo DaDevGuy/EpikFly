@@ -4,7 +4,7 @@ This plugin allows you to fly in survival mode. In ui with fully customizable me
 If you have any issues with the plugin, please make an issue [here](https://github.com/DaDevGuy/EpikFly/issues/new).
 
 * Credits: [DavidGlitch04](https://github.com/DavidGlitch04) Thanks For Making This Project Possiable.
-* Icon From [FlatIcon](www.flaticon.com)
+* Icon From [FlatIcon](https://www.flaticon.com)
 
 ## How to use
 
