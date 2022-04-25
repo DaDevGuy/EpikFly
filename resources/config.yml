@@ -21,7 +21,7 @@ config-ver: 1
 #MESSAGES
 
 epikfly.enable-message: "[EpikFly] Flying Mode Enabled!"
-epikfly.disable-messag: "[EpikFly] Flying Mode Disabled!"
+epikfly.disable-message: "[EpikFly] Flying Mode Disabled!"
 
 #UI-CONFIG
 
