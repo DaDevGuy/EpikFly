@@ -1,0 +1,14 @@
+name: EpikFly
+author: DaDevGuy
+main: EpikFly\DaDevGuy\Main
+version: 1.0.0
+api: [4.0.0]
+
+commands:
+  fly:
+    description: "Enable Or Disable Fly Mode"
+    permission: fly.cmd
+
+permissions:
+  epikfly.cmd:
+    default: true
